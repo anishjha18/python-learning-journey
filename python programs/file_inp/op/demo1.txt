@@ -1,0 +1,3 @@
+Hello my name is Anish and i am a student of btech 2nd yr of rd engineering college in Ghaziabad.
+As you guys know that using  VS code editor which makes the coding simple to write due it's supporting enviornment for coders.
+Till now i have learnt some programming language which are c language python and currently i am learning java .
