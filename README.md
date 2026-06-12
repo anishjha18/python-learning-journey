@@ -1,1 +1,1 @@
-linked the vs with github
+Linked VS with GitHub
